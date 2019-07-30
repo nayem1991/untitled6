@@ -1,0 +1,10 @@
+public class helloworld{
+
+public ststic void main(String[] args{
+public class MyClass {
+  int x = 5;
+int y=5
+int sum =5+4;
+system.out.prtint(sum);
+}
+}
