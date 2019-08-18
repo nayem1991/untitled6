@@ -8,8 +8,9 @@ public class StringDemo {
         System.out.println("nj = "+nj);
 
         nj.append(" Joy ");
-        nj.append(27);
-        nj.append(27.5);
+
+
+        nj.reverse();
 
         System.out.println("nj = "+nj);
     }
